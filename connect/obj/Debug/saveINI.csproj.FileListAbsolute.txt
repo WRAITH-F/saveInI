@@ -1,0 +1,8 @@
+F:\myCode\connect\connect\bin\Debug\connect.exe.config
+F:\myCode\connect\connect\bin\Debug\connect.exe
+F:\myCode\connect\connect\bin\Debug\connect.pdb
+F:\myCode\connect\connect\obj\Debug\connect.saveInI.resources
+F:\myCode\connect\connect\obj\Debug\connect.Properties.Resources.resources
+F:\myCode\connect\connect\obj\Debug\saveINI.csproj.GenerateResource.Cache
+F:\myCode\connect\connect\obj\Debug\connect.exe
+F:\myCode\connect\connect\obj\Debug\connect.pdb
